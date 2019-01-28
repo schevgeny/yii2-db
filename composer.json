@@ -1,5 +1,5 @@
 {
-    "name": "schevgeny yii db",
+    "name": "schevgenyYiiDb",
     "description": "Yii2 db singleton and setting bit",
     "type": "library",
     "keywords": ["yii2","extension","db", "singleton", "setting bit"],
