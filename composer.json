@@ -1,0 +1,26 @@
+{
+    "name": "schevgeny/yii/db",
+    "description": "Yii2 db singleton and setting bit",
+    "type": "library",
+    "keywords": ["yii2","extension","db", "singleton", "setting bit"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "schevgeny",
+            "email": "schevgeny@gmail.com"
+        }
+    ],
+    "support": {
+            "issues": "https://github.com/schevgeny/yii2-db/issues",
+            "source": "https://github.com/schevgeny/yii2-db"
+    },
+    "autoload": {
+        "psr-4": {
+            "schevgeny\\yii\\db\\": ""
+        }
+    },
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}

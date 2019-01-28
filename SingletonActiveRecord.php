@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\db;
+namespace schevgeny\yii\db;
 
 /**
  *
