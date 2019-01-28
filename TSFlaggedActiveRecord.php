@@ -9,7 +9,7 @@ namespace schevgeny\yii\db;
  * @license http://opensource.org/licenses/MIT
  */
 
-abstract class TSFlaggedActiveRecord extends \app\components\db\SingletonActiveRecord
+abstract class TSFlaggedActiveRecord extends \schevgeny\yii\db\SingletonActiveRecord
 {
     private $_flags = null;
     private $_flagLabels = null;
